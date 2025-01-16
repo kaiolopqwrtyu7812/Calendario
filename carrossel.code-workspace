@@ -1,0 +1,11 @@
+{
+    "folders": [
+        {
+            "name": "carrossel",
+            "path": "../../../../carrossel"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.port": 5501
+    }
+}
